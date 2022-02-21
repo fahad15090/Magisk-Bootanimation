@@ -3,7 +3,7 @@
 # Android Bootanimation
 *bootanimation.zip*
 
-![Magisk-gif](https://github.com/fahad15090/Magisk-Bootanimation/blob/main/magisk.gif?raw=true)
+![Magisk-gif](https://github.com/fahad15090/Magisk-Bootanimation/blob/main/magisk12.gif?raw=true)
 
 # Custom bootanimation also available on demand
 
